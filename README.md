@@ -13,8 +13,8 @@ Each subsequent installation of Dreamweaver produces another version of the Conf
 
 The following Configuration files and folders correspond to how Dreamweaver features are organized:
 
-- Extensions.txt	
-	A list of file extensions recognized by Dreamweaver.
-If you add an extension to this file, double-clicking a file with that extension in the Site panel opens it in Dreamweaver.
-	Extensions.txt also determines what file types are shown in the File > Open dialog box. To show files of a particular type in that dialog box by default, add the appropriate extension to the first line of Extensions.txt. For more information, see Extending Dreamweaver.
-- next file
+> - Extensions.txt	
+>	A list of file extensions recognized by Dreamweaver.
+>	If you add an extension to this file, double-clicking a file with that extension in the Site panel opens it in Dreamweaver.
+>	Extensions.txt also determines what file types are shown in the File > Open dialog box. To show files of a particular type in that dialog box by default, add the appropriate extension to the first line of Extensions.txt. For more information, see Extending Dreamweaver.
+> - next file
