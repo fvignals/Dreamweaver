@@ -1,0 +1,9 @@
+{
+	"snippets": {
+		"loremipsum": "Snippets*HTML_Snippets*Add_Loreum_Ipsum_.csn",
+		"favicon": "Snippets*HTML_Snippets*Add_a_Favicon_.csn",
+		"mailto": "Snippets*HTML_Snippets*Adding_a_Mailto_Link.csn",
+		"qform": "Snippets*HTML_Snippets*Create_a_Quick_Form.csn",
+		"qtable": "Snippets*HTML_Snippets*Create_a_Quick_Table.csn"
+	}
+}
