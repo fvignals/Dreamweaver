@@ -1,0 +1,11 @@
+{
+    "problems-panel": {
+        "visible": false
+    },
+    "sidebar": {
+        "visible": false
+    },
+    "find-in-files-results": {
+        "visible": false
+    }
+}

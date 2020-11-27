@@ -1,0 +1,14 @@
+{
+    "Safari": "com.apple.Safari",
+    "Firefox": "org.mozilla.firefox",
+    "Opera": "com.operasoftware.Opera",
+    "Chrome": "com.google.Chrome",
+    "AAM": "adobe.AAMLauncherUtil",
+    "EdgeInspect": "com.adobe.EdgeInspect.application",
+    "BBEdit": "com.barebones.bbedit",
+    "Fireworks": "com.macromedia.fireworks",
+    "Flash": "com.adobe.flash",
+    "Aftershock": "",
+    "Contribute": "",
+    "Photoshop": "com.adobe.Photoshop"
+}
