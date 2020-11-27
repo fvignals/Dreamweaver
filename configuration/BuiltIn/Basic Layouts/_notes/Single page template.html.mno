@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding = "utf-8" ?>
+<info xmlns:MMString="http://www.macromedia.com/schemes/dat/string/">
+	<infoitem key="mm_new_doc_type" value="project" />
+    <infoitem key="mm_new_doc_css_framework" value="FluidGridLayout" />
+	<infoitem key="mm_new_doc_name" value="MMString:BuiltIn/Basic Layouts/_notes/single_page_mno/mm_new_doc_name" />
+	<infoitem key="mm_new_doc_preview" value="SinglePageTemplate.png" />
+	<infoitem key="mm_new_doc_desc" value="MMString:BuiltIn/Basic Layouts/_notes/single_page_mno/mm_new_doc_desc" />
+	<infoitem key="mm_new_doc_is_fluid_grid" value="false" />
+	<infoitem key="mm_new_doc_copy_to_temp" value="true" />
+	<infoitem key="mm_new_doc_external_command" value="BasicLayoutTemplatesOnNew.htm" />
+</info>
